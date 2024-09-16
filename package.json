@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "chroma": "^0.0.1",
+    "image-decode": "^1.2.2"
+  },
+  "name": "kogasa-note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin" : {
+    "kogasa-note" : "index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LiYingchao ( gH: Love-Kogasa )",
+  "license": "MIT",
+  "description": "多多良小伞主题的终端文字展板(CLI)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Love-Kogasa/kogasa-note.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Love-Kogasa/kogasa-note/issues"
+  },
+  "homepage": "https://github.com/Love-Kogasa/kogasa-note#readme"
+}
